@@ -1,0 +1,4 @@
+dependencies:
+  - name: prose
+    git: ../prose
+    ref: master

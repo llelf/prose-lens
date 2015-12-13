@@ -1,0 +1,11 @@
+
+github: llelf/prose-lens
+
+library:
+  exposed-modules:
+    - Prose.Lens
+  dependencies:
+    - base < 5
+    - prose
+    - text
+    - lens
